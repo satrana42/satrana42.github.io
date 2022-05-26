@@ -1,0 +1,23 @@
+title: Sat Rana
+url: https://satrana42.github.io
+baseurl: /
+timezone: Asia/Kolkata
+
+header_pages:
+  - about.markdown
+
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
